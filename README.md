@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NarendraByte
+- 👋 Hi, I’m @Narendra
 - 👀 I’m interested in coding.
 - 🌱 I’m currently working on ReactJS.
 - 💞️ I’m looking to collaborate on UI technologies
